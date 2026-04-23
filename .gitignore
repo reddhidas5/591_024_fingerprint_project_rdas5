@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+
+# Dataset (too large for GitHub)
+data/
+dataset/
+*.bmp
+*.jpg
+*.jpeg
+
+# Model weights
+*.h5
+*.pkl
+*.pth
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+_MACOSX/
+__MACOSX/
